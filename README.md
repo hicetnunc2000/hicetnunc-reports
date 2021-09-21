@@ -1,2 +1,2 @@
-# hicetnunc-provenance
-documentation of provenance reviews
+# hicetnunc-reports
+documentation of reports
