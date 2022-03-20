@@ -1,2 +1,2 @@
 # hicetnunc-reports
-documentation of reports
+documentation of provenance and security reports
